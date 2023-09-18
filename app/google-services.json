@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026082741636",
+    "project_id": "video-list-251ff",
+    "storage_bucket": "video-list-251ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026082741636:android:49639278492648095b91d1",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudvideolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJeMG5cOw9rOz8eG5TT8QkXwH9KitNYc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
